@@ -1,6 +1,6 @@
 def secret = 'app'
 def server = 'sigit@103.172.205.236'
-def directory = 'Dumbflix-Frontend'
+def directory = 'Dumflix-Frontend'
 def branch = 'development'
 
 pipeline{
